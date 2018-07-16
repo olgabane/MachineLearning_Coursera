@@ -8,5 +8,6 @@ Ex4: Neural Networks Learning
 Ex5: Regularized Linear Regression and Bias v.s. Variance
 Ex6: Support Vector Machines
 Ex7: K-means clustering and PCA
+Ex8: Anomaly Detection and Recommender Systems
 
-This course is in progress and I will add more problem sets as I complete them. 
+All problem sets for this course are now complete and uploaded (as of July 15, 2018). 
